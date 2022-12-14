@@ -1,10 +1,10 @@
-package com.external_api_service.external_api;
+package com.externeapir0716032.externeapir0716032;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ExternalApiApplicationTests {
+class ExterneApiR0716032ApplicationTests {
 
 	@Test
 	void contextLoads() {

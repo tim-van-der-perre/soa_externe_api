@@ -1,4 +1,4 @@
-package com.external_api_service.external_api;
+package com.externeapir0716032.externeapir0716032;
 
 public class AnimeResponse {
 

@@ -1,13 +1,13 @@
-package com.external_api_service.external_api;
+package com.externeapir0716032.externeapir0716032;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ExternalApiApplication {
+public class ExterneApiR0716032Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ExternalApiApplication.class, args);
+		SpringApplication.run(ExterneApiR0716032Application.class, args);
 	}
 
 }

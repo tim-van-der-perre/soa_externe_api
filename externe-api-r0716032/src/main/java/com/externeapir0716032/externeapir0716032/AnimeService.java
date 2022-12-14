@@ -1,24 +1,18 @@
-package com.external_api_service.external_api;
+package com.externeapir0716032.externeapir0716032;
 
 
-import com.fasterxml.jackson.databind.util.JSONPObject;
-import org.apache.catalina.connector.Request;
-import org.apache.catalina.connector.Response;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
-import org.springframework.web.client.RestTemplate;
 
 import java.io.IOException;
 import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
-import java.nio.charset.StandardCharsets;
-import java.util.List;
 
 @RestController
 public class AnimeService {
