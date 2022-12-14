@@ -58,6 +58,7 @@ public class AnimeService {
 
             AnimeResponse animeResponse = new AnimeResponse(title, description,price,type,picture_url);
 
+
             System.out.println(animeResponse.toString());
 
             return animeResponse.toString();
